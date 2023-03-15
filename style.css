@@ -1,0 +1,243 @@
+.content{
+  text-align: center;
+  font-weight: bold;
+    background-color: white;
+       @media (min-width:550px) and (max-width: 750px) {
+        body{
+          background-color: white;
+        }
+    }
+}
+.h1{
+  align-items: center;
+  /* display: content; */
+  font-weight: 100px;
+}
+#catalog{
+  text-align: center;
+}
+.dest{
+  padding: 40x 10px;
+  margin-bottom: 10%;
+  font-size: larger;
+  
+  margin-left: 5%;
+  background-color: white;
+
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 1px 1opx;
+
+}
+
+
+nav ul li{
+  list-style-type: none;
+  justify-content: space-between;
+  
+}
+nav ul, li, a{
+  text-decoration: none;
+}
+#logo{
+  font-size: 30px;
+  display: flex;
+  padding: 12px;
+  background-color: yellow;
+  
+
+}
+.logo{
+  justify-content: space-between;
+  background-color:yellow;
+  padding: 20px;
+  display: flex;
+  margin-top: -10%;
+}
+#cat{
+  padding: 10px 80px;
+  background-color: yellow;
+}
+#fa{
+  padding: 10px 150px;
+  background-color: yellow;
+}
+.ey{
+  margin-left: 2%;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  font-size: 54%;
+
+}
+#fey{
+  margin-left: 40%;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.sections{
+  border-radius: 10px;
+  width: 10%;
+  padding: 1px 20px;
+}
+#star{
+  background-color: yellow;
+
+}
+#ewe{
+}
+#qwerty{
+  margin-left: 2%;
+}
+#vs{
+  margin-left: 2%;
+}
+#cas{
+  margin-left: 2%;
+}
+
+#ter{
+  margin-top: -70%;
+
+}
+.webd{
+  display: flex;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+  font-weight: bolder;
+  font-size: 23px;
+  margin-left: 10px;
+}
+.uh{
+  border: none;
+  display: inline-block;
+  background-repeat: no-repeat;
+  position: absolute;
+  float: left;
+  padding: 0%;
+  margin-right: 20px;
+  list-style: none;
+  margin-left: 20%;
+}
+#fsd{
+  margin-top: -42%;
+  margin-bottom: -22%;
+}
+#gsd{
+  margin-left: 13%;
+}
+
+#fyt{
+  margin-left: 12%;
+}
+
+#hi{
+  margin-bottom: -78%;
+  margin-left: -18%;
+}
+#de{
+  margin-bottom: -84%;
+  margin-left: 16%;
+
+}
+#fs{
+margin-bottom: -65%;
+margin-left: 67%;
+  
+}
+
+#cs{
+  
+  margin-bottom: -65%;
+  margin-left: 20%
+  
+  
+}
+#ds{
+  margin-bottom: -60%;
+  margin-left: 15%;
+}
+#eli{
+margin-left: 29%;
+margin-top: -45%;
+}
+#tyr{
+  margin-left: 30%;
+}
+#ery{
+  margin-left: 55%;
+  margin-top: -7%;
+}
+#ui{
+  margin-left: 56%;
+}
+#op{
+  margin-left: 72%;
+  margin-top: -4%;
+}
+#ul{
+  margin-left: 74%;
+}
+.tessy{
+
+}
+#des{
+ margin-left: 36%;
+ margin-right: 12%;
+ margin-top: -2%;
+ margin-bottom: -43%; 
+}
+#fed{
+  margin-left: 20%;
+  margin-bottom: -14%;
+  /* margin-top: -2%; */
+
+}
+#hg{
+  margin-left: 20%;
+  margin-bottom: 65%;
+  margin-top: -10%;
+}
+.pics{
+
+}
+#yt{
+  margin-bottom: 35%;
+  margin-left: 1%;
+  margin-top: -2%;
+}
+#tr{
+  margin-bottom: 35%;
+  margin-left: 13%;
+  margin-top: -2%;
+}
+#gf{
+  margin-bottom:  35%;
+  margin-left: 13%;
+  margin-top: -2%;
+}
+.looks{
+  
+}
+#bg{
+  margin-bottom: 50%;
+  margin-left: 13%;
+  margin-top: -5%;
+}
+#fs{
+  margin-bottom: 50%;
+  margin-left: 13%;
+  margin-top: -5%;
+}
+#bc{
+  margin-bottom: 50%;
+  margin-left: 13%;
+  margin-top: -5%;
+}
+
+
